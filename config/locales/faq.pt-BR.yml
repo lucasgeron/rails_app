@@ -1,0 +1,29 @@
+pt-BR:
+  views:
+    site:
+      faq:
+        main_questions:
+          - question: O que você quer dizer com "ativos do Figma"?
+            answer: Você terá acesso para baixar o projeto completo do Figma, incluindo todas as páginas, os componentes, páginas responsivas e também os ícones, ilustrações e imagens incluídas nas telas.
+
+          - question: O que exatamente significa "acesso vitalício"?
+            answer: Depois de adquirir os pacotes de design, código ou ambos, você terá acesso a todas as atualizações futuras com base no roteiro, sem nenhum custo adicional.
+
+          - question: Como funciona o suporte?
+            answer: Estamos cientes da importância de um suporte bem qualificado, por isso decidimos que o suporte será fornecido apenas pelos autores que realmente trabalharam neste projeto.
+
+          - question: Quero construir mais de um projeto. Isso é permitido?
+            answer: Você pode usar o Windster para um número ilimitado de projetos, seja um site pessoal, um aplicativo SaaS ou um site para um cliente. 
+
+        extra_questions: 
+          - question: O que inclui as "atualizações gratuitas"?
+            answer: As atualizações gratuitas que serão fornecidas são baseadas no roteiro que traçamos para este projeto. Também é possível que forneçamos atualizações extras fora do roteiro.
+
+          - question: O que a versão gratuita inclui?
+            answer: A versão gratuita do Windster inclui diretrizes de estilo minimalistas, variantes de componentes e uma página de painel com a versão móvel ao lado.
+
+          - question: Qual é a diferença entre Windster e Tailwind UI?
+            answer: Embora tanto o Windster quanto o Tailwind UI sejam construídos para integração com o Tailwind CSS, a principal diferença está no design, nas páginas, nos componentes extras e nos elementos de interface do usuário que o Windster inclui.
+
+          - question: Posso usar o Windster em projetos de código aberto?
+            answer: Geralmente, é aceito usar o Windster em projetos de código aberto, desde que não seja uma biblioteca de interface do usuário, um tema, um modelo ou um construtor de páginas que seria considerado uma alternativa ao próprio Windster.

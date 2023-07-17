@@ -1,0 +1,40 @@
+<section id="updates" data-navigation-target="updates_sec"  class="">
+  <div class="inner-section-default">
+
+    <%# UPDATES HEADER %>
+    <div class="max-w-screen-lg space-y-4 text-center mx-auto">
+      <h2 data-aos='zoom-in' class="title"> <%= t('views.site.updates.title')%> </h2>
+      <div data-aos="zoom-in" data-aos-delay="50" class=" text-sm md:text-base max-w-screen-md mx-auto"> <%= t('views.site.updates.description')%></div>
+    </div>
+
+    <%# UPDATES TABS %>
+    <div data-aos="fade-up" data-aos-delay="50" class="update_aos_trigger max-w-3xl mx-auto my-10">
+
+      <div class=" border-b border-gray-200 dark:border-gray-700 ">
+        <ul class="flex flex-wrap  justify-around center -mb-px text-sm text-center" id="myTab" data-tabs-toggle="#myTabContent" role="tablist">
+          <% t('views.updates.releases').last(5).reverse.each_with_index do |item, index| %>
+            <li class="" role="presentation">
+              <button class=" text-xs md:text-base inline-block p-2 md:p-4 border-b-2 rounded-t-lg" id="<%=index%>-tab" data-tabs-target="#profile-<%=index%>" type="button" role="tab" aria-controls="profile" aria-selected="false"><span class="text-sm">v</span><%= item[:version]%></button>
+            </li>
+          <% end %>
+        </ul>
+      </div>
+      <div id="myTabContent" class="my-8">
+        <%  t('views.updates.releases').last(5).reverse.each_with_index do |item, index| %>
+          <div class="hidden px-4 md:px-8 py-8 rounded-lg bg-gray-100 dark:bg-gray-800" id="profile-<%=index%>" role="tabpanel" aria-labelledby="<%=index%>-tab">
+            <div class="grid space-y-4 ">
+              <p class="description  md:text-center"> <span class=""><%=t('views.site.updates.release')%></span> <span class="px-2 py-1 ml-1  bg-blue-600 text-white  rounded"><%= time_ago_in_words(Date.strptime(item[:release_date], "%d/%m/%y")).capitalize %></span></p>
+              <p class="description"><%= item[:description]%></p>
+            </div>
+          </div>
+        <%end%>
+      </div>
+    </div>
+
+    <div data-aos="zoom-in" data-aos-anchor=".update_aos_trigger" data-aos-delay="50" class="description text-xs md:text-sm text-center">
+      <p class=""><%= t('views.site.updates.older_updates')%></p>
+      <p class=""><%= t('views.site.updates.consideration').html_safe%></p>
+    </div>
+
+  </div>
+</section>

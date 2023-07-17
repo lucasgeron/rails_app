@@ -1,0 +1,22 @@
+<%# FOOTER %>
+<div class="text-sm bg-gray-100 text-slate-500 pb-4 text-center ">
+
+  <%# rails app tag %>
+  <div class="mx-auto ">
+    <%= link_to ENV.fetch('mailer.host'), class:"" do %>
+      <%= image_tag('https://raw.githubusercontent.com/lucasgeron/rails_app/main/app/assets/images/favicon.ico', class:"mx-auto", style:"height:2rem") %>
+      <p class="text-lg font-bold text-slate-500 my-0"> <%= t('views.app.title')%> </p>
+    <% end %>
+  </div>
+</div>
+<%# develope by tag %>
+
+<div class=" bg-gray-200 text-slate-500 text-sm inner-shadow-top grid">
+  <div class="mx-auto flex-center p-4">
+    <span class="text-center text-xs"><%= t('views.site.footer.developed_by') %> </span>
+    <%= link_to t('views.app.github'), class:"flex-center" do %>
+      <%= image_tag('https://lucasgeron.github.io/assets/images/favicon.ico', class:"", style:"height:1rem; padding-left:0.10rem") %>
+      <span class='text-gray-900 text-xs'> <%= t('views.app.developer') %> </span>
+    <% end %>
+  </div>
+</div>

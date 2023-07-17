@@ -1,0 +1,32 @@
+pt-BR:
+  views:
+    services:
+      - icon_family: fa-solid
+        icon: rectangle-ad
+        title: Marketing
+        description: Planeje, crie, lance. Colabore perfeitamente com toda a organização e atinja suas metas de marketing todos os meses com nosso plano de marketing.
+
+      - icon_family: fa-solid
+        icon: file-contract
+        title: Jurídico
+        description: Proteja sua organização, dispositivos e mantenha-se em conformidade com nossos fluxos de trabalho estruturados e permissões personalizadas feitas para você.
+
+      - icon_family: fa-solid
+        icon: briefcase
+        title: Automação de Negócios
+        description: Atribua tarefas automaticamente, envie mensagens no Slack e muito mais. Agora, aumente sua potência com centenas de novos modelos para ajudá-lo a começar.
+
+      - icon_family: fa-solid
+        icon: coins
+        title: Finanças
+        description: Software à prova de auditoria construído para operações financeiras críticas, como fechamento mensal e orçamento trimestral.
+
+      - icon_family: fa-solid
+        icon: layer-group
+        title: Design Empresarial
+        description: Crie experiências bonitas e agradáveis ​​tanto para marketing quanto para produtos com colaboração real entre empresas.
+
+      - icon_family: fa-solid
+        icon: gear
+        title: Operações
+        description: Mantenha as luzes da sua empresa acesas com fluxos de trabalho personalizáveis, iterativos e estruturados, construídos para todas as equipes e indivíduos eficientes.

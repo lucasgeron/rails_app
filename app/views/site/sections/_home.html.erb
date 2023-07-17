@@ -1,0 +1,28 @@
+<section id="home" data-navigation-target="home_sec" class=" h-screen  grid place-items-center -mt-16 sm:-mt-0"  >
+  <div class="inner-section-default     md:grid lg:grid-cols-2 items-center default-gap">
+
+    <%# IMAGE BASED ON THEME %>
+    <img class="w-full dark:hidden" src="https://flowbite.s3.amazonaws.com/blocks/marketing-ui/cta/cta-dashboard-mockup.svg" alt="dashboard image">
+    <img class="w-full hidden dark:block" src="https://flowbite.s3.amazonaws.com/blocks/marketing-ui/cta/cta-dashboard-mockup-dark.svg" alt="dashboard image">
+    
+
+    <div class="mt-4 md:mt-0 flex flex-wrap space-y-4">
+     
+      <%# home.title %>
+      <h2 data-aos="zoom-in" class="title "><%= t('views.site.home.title') %></h2>
+      
+      <%# home.description %>
+      <p data-aos="zoom-in" data-aos-delay="50" class="description"><%= t('views.site.home.description') %></p>
+      
+      <%# home.cta %>
+      <a data-aos="zoom-in" data-aos-delay="50" href="#about" data-controller="scroll-to" data-scroll-to-offset-value="40" class="btn-primary mx-auto md:mx-0 inline-flex items-center space-x-2 ">
+        <span class=""><%= icon('fa-solid', 'arrow-down', class:"fa-bounce ", style:"--fa-bounce-height: 3px") %></span>
+        <span class=""><%= t('views.site.home.cta') %></span>
+      </a>
+
+    
+    </div>
+
+  </div>
+</section>
+

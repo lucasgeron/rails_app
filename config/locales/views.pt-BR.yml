@@ -1,0 +1,140 @@
+pt-BR:
+  views:
+    app:
+      title: App Rails
+      name: Exemplo de Aplicação Rails
+      developer: lucasgeron
+      github: https://github.com/lucasgeron
+    site:
+      language_switched: Idioma alterado para Português do Brasil.
+      navbar:
+        home: Início
+        about: Sobre
+        faq: FAQ
+        services: Serviços
+        pricing: Preço
+        updates: Atualizações
+        contact: Contato
+      footer:
+        year: 2023
+        rights: Todos os direitos reservados
+        developed_by: Desenvolvido por
+      home: 
+        title: Nós criamos ferramentas que nos únem.
+        description: Flowbite ajuda você a se conectar com amigos e comunidades de pessoas que compartilham seus interesses. Conectar-se com seus amigos e familiares, bem como descobrir novos, é fácil com recursos como Grupos.
+        cta: Explorar
+      about:
+        title: Nós não reinventamos a roda
+        description: Somos estrategistas, designers e desenvolvedores. Inovadores e solucionadores de problemas. Pequeno o suficiente para ser simples e rápido, mas grande o suficiente para fornecer o escopo que você deseja no ritmo que você precisa. Pequeno o suficiente para ser simples e rápido, mas grande o suficiente para fornecer o escopo que você deseja no ritmo que você precisa.
+        note: Somos estrategistas, designers e desenvolvedores. Inovadores e solucionadores de problemas. Pequeno o suficiente para ser simples e rápido.
+        cta: Descubra o que temos a oferecer
+      faq:
+        title: Perguntas frequentes
+        description: Explore as principais perguntas e tire suas dúvidas
+        sub_title: Outras perguntas relevantes
+      services:
+        title: Projetado para equipes de negócios como a sua
+        description: Aqui na Flowbite, nos concentramos em mercados onde tecnologia, inovação e capital podem liberar valor a longo prazo e impulsionar o crescimento econômico.
+      updates:
+        title: Últimas Atualizações
+        description: Descubra todas as novidades
+        older_updates: Perdeu alguma atualização? 
+        consideration: Considere <a href="#newsletter" data-controller="scroll-to" class="hover:text-blue-600 font-semibold" data-scroll-to-offset-value="60"> receber atualizações</a>.
+        release: Lançado há
+      newsletter:
+        title: Assine a nossa newsletter
+        description: Mantenha-se atualizado com o progresso do roteiro, anúncios e descontos exclusivos, sinta-se à vontade para se inscrever com seu e-mail.
+        input_label: Endereço de e-mail
+        placeholder: Digite seu e-mail
+        cta: Assinar
+        subscribed_successfully: 'Assinatura realizada com sucesso! Verifique seu email %{email}'
+        subscriber_not_found: 'O email: %{email} não faz parte da nossa lista de contatos.'
+        unsubscribed_successfully: '%{email} foi removido da lista de contatos da newsletter'
+        unsubscribed_unsuccessfully: 'Algo errado aconteceu. Nós não encontramos o email: %{email} em nossa lista de contatos'
+        unsubscribe:
+          title: Cancelar Assinatura
+          description: Sintimos muito de voce não querer mais receber atualizações
+          cta: Cancelar Inscrição
+      pricing:
+        title: Escolha seu pacote
+        description: Tudo está disponível em dois pacotes diferentes para que possas escolher o que mais te convém.
+        first_plan:
+          title: Essencial
+          price_label: R$
+          price: Grátis
+          price_frequency: .
+          description: O ponto de partida se você possui um orçamento baixo.
+          cta: Quero testar
+          benefits:
+            - first benefit
+            - second benefit 
+          form_subject: Assunto para plano grátis
+          form_message: Messagem para plano grátis
+        second_plan:
+          title: Completo 
+          price_label: R$
+          price: 99
+          price_frequency: /Mês
+          description: Inclúi tudo o que você sempre quis.
+          cta: Quero contratar
+          benefits:
+            - first benefit
+            - second benefit 
+          form_subject: Assunto para plano completo
+          form_message: Mensagem para plano completo
+      contact:
+        title: Entre em contato
+        description: Precisa de detalhes sobre o nosso plano de negócios? Deixe-nos saber.
+        email_label: Seu email
+        email_placeholder: email@email.com
+        subject_label: Assunto
+        subject_placeholder: Deixe-nos saber como podemos ajudá-lo
+        message_label: Sua mensagem
+        message_placeholder: Deixe um comentário...
+        cta: Enviar mensagem
+        created_successfully: Sua mensagem foi enviada com sucesso.
+      team:
+        title: Conheça nosso time
+        description: Explore toda a coleção de componentes e elementos da Web de código aberto criados com as classes de utilitários do Tailwind
+        members:
+          - name: Bonnie Green
+            img_src: https://flowbite.s3.amazonaws.com/blocks/marketing-ui/avatars/bonnie-green.png
+            role: CEO & Web Developer
+            description: Bonnie drives the technical strategy of the flowbite platform and brand.
+            socials:
+              - facebook: link_to_facebook
+              - github: link_to_github
+              - behance: link_to_behance
+              - whatsapp: link_to_whatsapp
+              - instagram: link_to_whatsapp
+              - tiktok: link_to_whatsapp
+          - name: Jese Leos
+            img_src: https://flowbite.s3.amazonaws.com/blocks/marketing-ui/avatars/jese-leos.png
+            role: CTO
+            description: Jese drives the technical strategy of the flowbite platform and brand.
+            socials:
+              - facebook: link_to_facebook
+              - github: link_to_github
+              - behance: link_to_behance
+              - whatsapp: link_to_whatsapp
+          - name: Bonnie Green
+            img_src: https://flowbite.s3.amazonaws.com/blocks/marketing-ui/avatars/bonnie-green.png
+            role: CEO & Web Developer
+            description: Bonnie drives the technical strategy of the flowbite platform and brand.
+            socials:
+              - facebook: link_to_facebook
+              - github: link_to_github
+              - behance: link_to_behance
+              - whatsapp: link_to_whatsapp
+              - instagram: link_to_whatsapp
+              - tiktok: link_to_whatsapp
+          - name: Jese Leos
+            img_src: https://flowbite.s3.amazonaws.com/blocks/marketing-ui/avatars/jese-leos.png
+            role: CTO
+            description: Jese drives the technical strategy of the flowbite platform and brand.
+            socials:
+              - facebook: link_to_facebook
+              - github: link_to_github
+              - behance: link_to_behance
+              - whatsapp: link_to_whatsapp
+
