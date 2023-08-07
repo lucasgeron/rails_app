@@ -94,8 +94,8 @@ en:
         cta: Send Message
         created_successfully: Your message has been sent successfully.
       team:
-        title: Conheça nosso time
-        description: Explore toda a coleção de componentes e elementos da Web de código aberto criados com as classes de utilitários do Tailwind
+        title: Meet our team
+        description: Explore the entire collection of open source components and web elements built with Tailwind's utility classes
         members:
           - name: Bonnie Green
             img_src: https://flowbite.s3.amazonaws.com/blocks/marketing-ui/avatars/bonnie-green.png

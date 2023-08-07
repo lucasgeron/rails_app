@@ -86,30 +86,28 @@ pt-BR:
           version: "12.04"
           title: Opening remarks
           description: Lorem ipsum dolor sit amet consectetur adipisicing elit. Modi esse beatae incidunt sint sed dolores blanditiis architecto quae? Impedit iure adipisci ea natus excepturi! Possimus inventore magni eius laborum optio!
-
-        - release_date: 25/09/93
+ 
+        - release_date: 01/05/23
           version: "12.05"
-          title: Exploring the balance between customer acquisition and retention
-          description: Lorem ipsum dolor sit amet consectetur adipisicing elit. Modi esse beatae incidunt sint sed dolores blanditiis architecto quae? Impedit iure adipisci ea natus excepturi! Possimus inventore magni eius laborum optio!
+          title: Modo Plante-uma-Árvore
+          description: Preocupamo-nos com o meio ambiente, por isso introduzimos o Modo Plante-uma-Árvore. Cada vez que você usa o seu dispositivo, uma árvore virtual será plantada em uma floresta digital. Colete distintivos de floresta virtual e orgulhe-se dos seus esforços digitais de reflorestamento!
 
-        - release_date: 25/09/93
+        - release_date: 12/05/23
           version: "12.06"
-          title: Bergside LLC Flowbite - An Open Framework for Forensic Watermarking
-          description: Lorem ipsum dolor sit amet consectetur adipisicing elit. Modi esse beatae incidunt sint sed dolores blanditiis architecto quae? Impedit iure adipisci ea natus excepturi! Possimus inventore magni eius laborum optio!
+          title: Filtro de Realidade Holográfica
+          description: Apresentamos o Filtro de Realidade Holográfica, que transforma o seu ambiente em uma aventura intergaláctica. Agora a sua sala de estar pode se tornar um campo de batalha contra invasores alienígenas, com efeitos sonoros imersivos!
 
-        - release_date: 10/01/23
+        - release_date: 16/06/23
           version: "12.07"
-          title: Scaling your brand from €0 to multimillion euros
-          description: Lorem ipsum dolor sit amet consectetur adipisicing elit. Modi esse beatae incidunt sint sed dolores blanditiis architecto quae? Impedit iure adipisci ea natus excepturi! Possimus inventore magni eius laborum optio!
+          title: Mensagens de Viagem no Tempo
+          description: "Dê olá às Mensagens de Viagem no Tempo! Com esta atualização, você pode enviar mensagens para o seu eu do passado. Atenção: paradoxos podem ocorrer se você acidentalmente aconselhar a si mesmo a não atualizar o aplicativo."
 
-        - release_date: 10/06/23
+        - release_date: 28/06/23
           version: "12.08"
-          title: Drinks & networking
-          description: Lorem ipsum dolor sit amet consectetur adipisicing elit. Modi esse beatae incidunt sint sed dolores blanditiis architecto quae? Impedit iure adipisci ea natus excepturi! Possimus inventore magni eius laborum optio!
+          title: Temas Movidos a Emoção
+          description: Nossos engenheiros integraram temas movidos a emoção na interface. O seu dispositivo agora percebe os seus sentimentos e altera o esquema de cores de acordo. Se sentindo triste? O seu dispositivo vai saber!
 
         - release_date: 10/07/23
           version: "12.09"
-          title: Drinks & networking
-          description: Lorem ipsum dolor sit amet consectetur adipisicing elit. Modi esse beatae incidunt sint sed dolores blanditiis architecto quae? Impedit iure adipisci ea natus excepturi! Possimus inventore magni eius laborum optio! Lorem ipsum dolor sit amet consectetur adipisicing elit. Modi esse beatae incidunt sint sed dolores blanditiis architecto quae? Impedit iure adipisci ea natus excepturi! Possimus inventore magni eius laborum optio!Lorem ipsum dolor sit amet consectetur adipisicing elit. Modi esse beatae incidunt sint sed dolores blanditiis architecto quae? Impedit iure adipisci ea natus excepturi! Possimus inventore magni eius laborum optio!
-
-
+          title: Turbo Impulsionado por Quantum
+          description: "Capturamos o poder da mecânica quântica para dar um impulso turbo aos seus dispositivos! Basta sacudir o seu dispositivo enquanto grita 'Salto Quântico' para ativar esta função. Note que realidades alternativas podem ser experimentadas durante o uso."

@@ -87,29 +87,29 @@ en:
           title: Opening remarks
           description: Lorem ipsum dolor sit amet consectetur adipisicing elit. Modi esse beatae incidunt sint sed dolores blanditiis architecto quae? Impedit iure adipisci ea natus excepturi! Possimus inventore magni eius laborum optio!
 
-        - release_date: 25/09/93
+        - release_date: 01/05/23
           version: "12.05"
-          title: Exploring the balance between customer acquisition and retention
-          description: Lorem ipsum dolor sit amet consectetur adipisicing elit. Modi esse beatae incidunt sint sed dolores blanditiis architecto quae? Impedit iure adipisci ea natus excepturi! Possimus inventore magni eius laborum optio!
+          title: Plant-a-Tree Mode
+          description: We care about the environment, so we've introduced Plant-a-Tree Mode. Every time you use your device, a virtual tree will be planted in a digital forest. Collect virtual forest badges and brag about your digital reforestation efforts!
 
-        - release_date: 25/09/93
+        - release_date: 12/05/23
           version: "12.06"
-          title: Bergside LLC Flowbite - An Open Framework for Forensic Watermarking
-          description: Lorem ipsum dolor sit amet consectetur adipisicing elit. Modi esse beatae incidunt sint sed dolores blanditiis architecto quae? Impedit iure adipisci ea natus excepturi! Possimus inventore magni eius laborum optio!
+          title: Holographic Reality Filter
+          description: Introducing the Holographic Reality Filter, which turns your surroundings into an intergalactic adventure. Now your living room can become a battlefront against alien invaders, complete with immersive sound effects!
 
-        - release_date: 25/09/93
+        - release_date: 16/06/23
           version: "12.07"
-          title: Scaling your brand from €0 to multimillion euros
-          description: Lorem ipsum dolor sit amet consectetur adipisicing elit. Modi esse beatae incidunt sint sed dolores blanditiis architecto quae? Impedit iure adipisci ea natus excepturi! Possimus inventore magni eius laborum optio!
+          title: Time-Travel Messaging
+          description: "Say hello to Time-Travel Messaging! With this update, you can send messages to your past self. Be warned: paradoxes might occur if you accidentally advise yourself not to update the app."
 
-        - release_date: 25/09/93
+        - release_date: 28/06/23
           version: "12.08"
-          title: Drinks & networking
-          description: Lorem ipsum dolor sit amet consectetur adipisicing elit. Modi esse beatae incidunt sint sed dolores blanditiis architecto quae? Impedit iure adipisci ea natus excepturi! Possimus inventore magni eius laborum optio!
+          title: Emotion-Powered Themes
+          description: Our engineers have integrated emotion-powered themes into the interface. Your device now senses your feelings and changes its color scheme accordingly. Feeling blue? Your device will know!
 
         - release_date: 10/07/23
           version: "12.09"
-          title: Drinks & networking
-          description: Lorem ipsum dolor sit amet consectetur adipisicing elit. Modi esse beatae incidunt sint sed dolores blanditiis architecto quae? Impedit iure adipisci ea natus excepturi! Possimus inventore magni eius laborum optio!
+          title: Quantum Turbo Boost
+          description: "We've harnessed the power of quantum mechanics to give your devices a turbo boost! Simply shake your device while shouting 'Quantum Leap' to activate this feature. Please note that alternate realities might be experienced during usage."
 
 
