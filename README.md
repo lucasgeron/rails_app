@@ -1,11 +1,16 @@
-# RAILS_APP
+# ![Rails Logo](https://raw.githubusercontent.com/lucasgeron/rails_app/main/app/assets/images/favicon.ico) RAILS_APP 
 
-![Rails Logo](https://raw.githubusercontent.com/lucasgeron/rails_app/main/app/assets/images/favicon.ico) 
+[🎞 Vídeo Demonstração](https://dms-exp3.licdn.com/playlist/vid/D4D05AQECK8--YLDylg/mp4-720p-30fp-crf28/0/1691431341259?e=1692039600&v=beta&t=-G0QfJ4y4rOTEO6rfwypPnXqfENDPy1OAPlQ87I4IDM)
+---
+
 
 Este é um repositório de portifolio Ruby on Rails desenvolvido para agilizar o processo de criação de uma Landing Page. 
 
 O projeto conta com uma diversas conteúdos, e possui barra de navegação dinamica.
 Todos os elementos podem ser facilmente personalizados de acordo com suas preferências.
+
+
+
 
 ## Índice
 
