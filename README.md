@@ -13,6 +13,12 @@ Todos os elementos podem ser facilmente personalizados de acordo com suas prefer
 ## Índice
 
 - [ RAILS\_APP](#-rails_app)
+<<<<<<<<< Temporary merge branch 1
+  - [dark version](#dark-version)
+=========
+  - [](#)
+>>>>>>>>> Temporary merge branch 2
+- [ RAILS\_APP](#-rails_app)
   - [Dark version Print](#dark-version-print)
   - [Índice](#índice)
   - [Configuração do Ambiente](#configuração-do-ambiente)
