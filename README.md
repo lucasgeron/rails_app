@@ -4,7 +4,6 @@
 [Dark version Print](https://i.ibb.co/t3cQ69f/Captura-da-Web-18-9-2023-13056-127-0-0-1.jpg)
 ---
 
-
 Este é um repositório de portifolio Ruby on Rails desenvolvido para agilizar o processo de criação de uma Landing Page. 
 
 O projeto conta com uma diversas conteúdos, e possui barra de navegação dinamica.
